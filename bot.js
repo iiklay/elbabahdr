@@ -217,7 +217,7 @@ function play(guild, song) {
 	serverQueue.textChannel.send(`بدء تشغيل : **${song.title}**`);
 }//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
 
-const adminprefix = "$klay;//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
+const adminprefix = "$klay";//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
 const devs = ['427802430701436928'];//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
 client.on('message', message => {//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
   var argresult = message.content.split(` `).slice(1).join(' ');//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
